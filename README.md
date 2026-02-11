@@ -10,7 +10,7 @@
 ### Clone this repository
 Command
 ```
-git clone https://github.com/magnetrong/pgvector.git
+git clone https://github.com/The-Orange-Force/pgvector-docker.git
 ```
 
 ### Configure vector dimensions
